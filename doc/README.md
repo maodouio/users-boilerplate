@@ -22,7 +22,7 @@
 
 **操作系统**
   * mac: 首选的操作系统，开发工具全
-  * windows 如无mac可用 也可直接安装meteor
+  * windows 如无mac可用 可在windows下安装ubuntu虚拟机也可直接在windows下安装meteor但后期会出现一些问题
     - 如选windows需安装git bash [安装地址](https://git-for-windows.github.io/)
   * ubuntu:
 
